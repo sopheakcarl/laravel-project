@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::post('/home','homeController@home');
+Route::get('/home','homeController@home');
