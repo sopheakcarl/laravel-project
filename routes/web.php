@@ -15,4 +15,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/home','homeController@home');
+Route::get('/home','homeController@home');              // home route
+// start academic route
+Route::prefix('/academic')->group(function () 
+{
+    Route::get('foundation', 'academicController@foundation');  // route : academic/foundation
+    Route::get('associate', 'academicController@associate');  // route : academic/associate
+});
+// end academic route
