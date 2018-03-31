@@ -94,7 +94,7 @@
 							<li class="for-tablet nav-title"><a>Menu</a></li>
 							<li class="for-tablet"><a href="login.html">Login</a></li>
 							<li class="for-tablet"><a href="register.html">Register</a></li>
-							<li><a href="category.html">Standard</a></li>
+							<li><a href="category.html">Home</a></li>
 							<li class="dropdown magz-dropdown">
 								<a href="category.html">Pages <i class="ion-ios-arrow-right"></i></a>
 								<ul class="dropdown-menu">
@@ -162,7 +162,7 @@
 									</li>
 								</ul>
 							</li>
-							<li class="dropdown magz-dropdown magz-dropdown-megamenu"><a href="#">Mega Menu <i class="ion-ios-arrow-right"></i> <div class="badge">Hot</div></a>
+							<li class="dropdown magz-dropdown magz-dropdown-megamenu"><a href="#">Academic <i class="ion-ios-arrow-right"></i> <div class="badge">Hot</div></a>
 								<div class="dropdown-menu megamenu">
 									<div class="megamenu-inner">
 										<div class="row">
@@ -173,11 +173,11 @@
 													</div>
 												</div>
 												<ul class="vertical-menu">
-													<li><a href="#"><i class="ion-ios-circle-outline"></i> Mega menu is a new feature</a></li>
-													<li><a href="#"><i class="ion-ios-circle-outline"></i> This is an example</a></li>
-													<li><a href="#"><i class="ion-ios-circle-outline"></i> For a submenu item</a></li>
-													<li><a href="#"><i class="ion-ios-circle-outline"></i> You can add</a></li>
-													<li><a href="#"><i class="ion-ios-circle-outline"></i> Your own items</a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i> Foundation Year</a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i> Associate Bachelor Degree</a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i> Bachelor Degree</a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i> Master Degree</a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i> Bridg Course</a></li>
 												</ul>
 											</div>
 											<div class="col-md-9">

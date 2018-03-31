@@ -14,10 +14,5 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/test/{name?}',function($name="guest "){
-    return 'welcome '.$name;
-});
 
-Route::get('/about','aboutController@index');
-Route::get('/student','studentController@index');
-Route::post  ('/result','studentController@result');
+Route::post('/home','homeController@home');
