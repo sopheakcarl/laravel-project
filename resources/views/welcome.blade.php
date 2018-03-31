@@ -3,12 +3,18 @@
 @section('content')
 <section class="home">
 			<div class="container">
+
+				<div class= "row">
+					<div class ="col-md-12 col-sm-12 col-xs-12">
+						<!-- include slide show from view/include/slideshow.blade.php -->
+						@include('includes.slideshow')
+						<!-- end slide show-->
+					</div>
+				<div>
 				<div class="row">
-					<div class="col-md-12 col-sm-12 col-xs-12">
+					<div class="col-md-8 col-sm-12 col-xs-12">
 					
-					<!-- include slide show from view/include/slideshow.blade.php -->
-					@include('includes.slideshow')
-					<!-- end slide show-->
+					
 						<div class="line">
 							<div>Latest News</div>
 						</div>
