@@ -1,5 +1,5 @@
 @extends('layouts.master')
-@section('title','Home')
+@section('title','Home Page')
 @section('content')
 <section class="home">
 			<div class="container">
