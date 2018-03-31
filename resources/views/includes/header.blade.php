@@ -58,7 +58,7 @@
 					<div id="menu-list">
 						<ul class="nav-list">
 							<li class="for-tablet nav-title"><a>Menu</a></li>
-							<li class="for-tablet"><a href="login.html">Login</a></li>
+							<li class="for-tablet"><a href="login.html">LogOut</a></li>
 							<li class="for-tablet"><a href="register.html">Register</a></li>
 							<li><a href="category.html">Home</a></li>
 							<li class="dropdown magz-dropdown">
