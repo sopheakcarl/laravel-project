@@ -67,7 +67,7 @@
 						</div>
 						<div class="col-md-3 col-sm-12 text-right">
 							<ul class="nav-icons">
-								<li><a href="register.html"><i class="ion-person-add"></i><div>Register</div></a></li>
+								<li><a href="register.html"><i class="ion-person-add"></i><div>Registerr</div></a></li>
 								<li><a href="login.html"><i class="ion-person"></i><div>Login</div></a></li>
 							</ul>
 						</div>
