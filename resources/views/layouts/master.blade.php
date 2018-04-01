@@ -25,10 +25,13 @@
 		<!-- Magnific Popup -->
 		<link rel="stylesheet" href="scripts/magnific-popup/dist/magnific-popup.css">
 		<link rel="stylesheet" href="scripts/sweetalert/dist/sweetalert.css">
+		<!--font awsome font-->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
 		<!-- Custom style -->
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/skins/all.css">
 		<link rel="stylesheet" href="css/demo.css">
+		<link rel="stylesheet" href="css/mystyle.css">
 	</head>
 
 	<body class="skin-orange">

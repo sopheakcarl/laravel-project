@@ -66,13 +66,13 @@
 
 
 							<!--Start SETEC Intitute-->
-							<li><a href="category.html">SETEC INSTITUTE</a></li>
+							<li><a href="category.html"><i class="fa fa-building fa-lg"></i> SETEC INSTITUTE</a></li>
 							<!--End SETEC Intitute-->
 
 
 							<!--Start Academic-->
 							<li class="dropdown magz-dropdown">
-								<a href="category.html">ACADEMIC <i class="ion-ios-arrow-right"></i></a>
+								<a href="category.html"><i class="fa fa-book fa-lg"></i> ACADEMIC <i class="ion-ios-arrow-right"></i></a>
 								<ul class="dropdown-menu">
 									<li><a href="index.html">Foundation Year </a></li>
 									
@@ -100,7 +100,7 @@
 
 
 							<!--Start IT Learning-->
-							<li class="dropdown magz-dropdown"><a href="#">IT Learning<i class="ion-ios-arrow-right"></i></a>
+							<li class="dropdown magz-dropdown"><a href="#"><i class="fa fa-address-book fa-lg"></i> IT Learning<i class="ion-ios-arrow-right"></i></a>
 								<ul class="dropdown-menu">
 								
 									<li class="dropdown magz-dropdown"><a href="category.html">Programming<i class="ion-ios-arrow-right"></i></a>
@@ -142,7 +142,7 @@
 							
 
 							<!--Start Activities-->
-							<li class="dropdown magz-dropdown magz-dropdown-megamenu"><a href="#">Activitis<i class="ion-ios-arrow-right"></i> <div class="badge">Khmer</div></a>
+							<li class="dropdown magz-dropdown magz-dropdown-megamenu"><a href="#"><i class="fa fa-calendar fa-lg"></i> Activitis<i class="ion-ios-arrow-right"></i> <div class="badge">Khmer</div></a>
 								<div class="dropdown-menu megamenu">
 									<div class="megamenu-inner">
 										<div class="row">
@@ -227,43 +227,25 @@
 
 
 							<!--Start Internship-->
-							<li><a href="category.html">Intership</a></li>
+							<li><a href="category.html"><i class="fa fa-briefcase fa-lg"></i> Intership</a></li>
 							<!--End Internship-->
 
 
 							<!--Start Fancilities-->
-							<li><a href="category.html">Facilites</a></li>
+							<li><a href="category.html"><i class="fa fa-laptop fa-lg"></i> Facilites</a></li>
 							<!--End Fancilities-->
 
 
 							<!--Start Structure-->
-							<li><a href="category.html">Structure</a></li>
+							<li><a href="category.html"><i class="fa fa-sitemap fa-lg"></i> Structure</a></li>
 							<!--End Structure-->
 
 
 							<!--Start About Us-->
-							
+							<li><a href="category.html"><i class="fa fa-user fa-lg"></i> About Us</a></li>
 							<!--End About Us-->
 
 
-							<!--Start Contact Us-->
-							
-							<!--Start Contact Us-->
-
-
-
-
-							<li class="dropdown magz-dropdown"><a href="#">Dropdown Icons <i class="ion-ios-arrow-right"></i></a>
-								<ul class="dropdown-menu">
-									<li><a href="#"><i class="icon ion-person"></i> My Accountt</a></li>
-									<li><a href="#"><i class="icon ion-heart"></i> Favorite</a></li>
-									<li><a href="#"><i class="icon ion-chatbox"></i> Comments</a></li>
-									<li><a href="#"><i class="icon ion-key"></i> Change Password</a></li>
-									<li><a href="#"><i class="icon ion-settings"></i> Settings</a></li>
-									<li class="divider"></li>
-									<li><a href="#"><i class="icon ion-log-out"></i> Logout</a></li>
-								</ul>
-							</li>
 						</ul>
 					</div>
 				</div>

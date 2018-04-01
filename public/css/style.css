@@ -1220,8 +1220,8 @@ section.search .search-result {
 
 .firstbar {
   position: relative;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   width: 100%;
   background-color: #FFFFFF;
 }
@@ -1233,7 +1233,7 @@ section.search .search-result {
   text-decoration: none;
 }
 .firstbar .brand img {
-  width: 200px;
+  width: 300px;
   display: block;
   float: left;
 }
@@ -4130,6 +4130,14 @@ blockquote {
 
 .mfp-bg {
   z-index: 2001;
+}
+
+.thanuk
+{
+  background-color: #ccc;
+  margin-right: -15px;
+  margin-left: -15px;
+  margin-bottom: 15px;
 }
 
 /*# sourceMappingURL=style.css.map */

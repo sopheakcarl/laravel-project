@@ -1,0 +1,9 @@
+.menu{
+    border-top-color: #328a76;
+    border-bottom-color: #328a76;
+    background-color: #b9f500;
+    padding: 11px 1px;
+}
+.menu ul>li>a{
+    padding: 1px 7px;
+}
