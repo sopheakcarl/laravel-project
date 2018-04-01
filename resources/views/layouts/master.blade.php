@@ -31,7 +31,6 @@
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/skins/all.css">
 		<link rel="stylesheet" href="css/demo.css">
-		<link rel="stylesheet" href="css/mystyle.css">
 	</head>
 
 	<body class="skin-orange">
