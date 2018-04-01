@@ -6,7 +6,7 @@
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
-	<li data-target="#myCarousel" data-slide-to="3"></li>
+	 <li data-target="#myCarousel" data-slide-to="3"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -16,15 +16,15 @@
     </div>
 
     <div class="item">
-      <img src="images/news/img18.jpg" alt="Chicago">
+      <img src="images/news/img18.jpg" width="100%" hight="100%" alt="Chicago">
     </div>
 
     <div class="item">
-      <img src="images/news/img19.jpg" alt="New York">
+      <img src="images/news/img19.jpg" width="100%" hight="100%" alt="New York">
     </div>
 
 	<div class="item">
-      <img src="images/news/img20.jpg" alt="New York">
+      <img src="images/news/img20.jpg" width="100%" hight="100%" alt="New York">
     </div>
   </div>
 

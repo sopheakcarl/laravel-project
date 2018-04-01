@@ -105,35 +105,31 @@
 								
 									<li class="dropdown magz-dropdown"><a href="category.html">Programming<i class="ion-ios-arrow-right"></i></a>
 										<ul class="dropdown-menu">
-											<li><a href="category.html"></a></li>
-											<li class="dropdown magz-dropdown"><a href="category.html">Hardware </a>
-												
-											</li>
-											<li><a href="category.html">Brainware</a>
+											
+											<li><a href="category.html">C Programming</a></li>	
+											<li><a href="category.html">C++ Programming</a></li>
+											<li><a href="category.html">C#Programming</a></li>
+											<li><a href="category.html">Javascript programming</a></li>
+											<li><a href="category.html">Java Programming</a></li>
 										</ul>
 									</li>
 						
 									<li class="dropdown magz-dropdown"><a href="#">Network<i class="ion-ios-arrow-right"></i></a>
 										<ul class="dropdown-menu">
-											<li><a href="category.html">Web</a></li>
-											<li class="dropdown magz-dropdown"><a href="category.html">Mobile </a>
-												<ul class="dropdown-menu">
-						
-												</ul>
-											</li>
-											<li><a href="category.html">Desktop</a></li>
+											<li><a href="category.html">Network Administator</a></li>
+											<li><a href="category.html">Linux Administator</a></li>
+											<li><a href="category.html">Network Computer Device</a></li>
 										</ul>
 									</li>
 
 									<li class="dropdown magz-dropdown"><a href="#">Design<i class="ion-ios-arrow-right"></i></a>
 										<ul class="dropdown-menu">
-											<li><a href="category.html">Web</a></li>
-											<li class="dropdown magz-dropdown"><a href="category.html">Mobile </a>
-												<ul class="dropdown-menu">
-						
-												</ul>
-											</li>
-											<li><a href="category.html">Desktop</a></li>
+											<li><a href="category.html">Adobe Photoshop</a></li>
+											<li><a href="category.html">Adobe Illustrator</a></li>
+											<li><a href="category.html">Adobe Indesign</a></li>
+											<li><a href="category.html">Adobe Premiere</a></li>
+											<li><a href="category.html">Adobe After Effect</a></li>
+											<li><a href="category.html">Autodesk 3d Mark</a></li>
 										</ul>
 									</li>
 								</ul>
@@ -149,7 +145,7 @@
 											<div class="col-md-3">
 												<div class="row">
 													<div class="col-md-12">
-														<h2 class="megamenu-title">Trending</h2>
+														<h2 class="megamenu-title">Ceremony</h2>
 													</div>
 												</div>
 												<ul class="vertical-menu">
@@ -165,7 +161,7 @@
 											<div class="col-md-9">
 												<div class="row">
 													<div class="col-md-12">
-														<h2 class="megamenu-title">Featured Posts</h2>
+														<h2 class="megamenu-title">Event For New</h2>
 													</div>
 												</div>
 												<div class="row">

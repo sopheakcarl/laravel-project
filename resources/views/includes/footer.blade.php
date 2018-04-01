@@ -1,51 +1,48 @@
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
 
-
-<div class="container-fluid" id="bg3">
-    <footer class="container ">
-  <div class="row foot">
-
-    <div id="foot1" class="col-md-3 col-sm-3">
-
-      <h5>Useful Links</h5>
-     <h5 id="firstchild">
-      <span class="glyphicon glyphicon-chevron-right"></span><a href="#" class="text-muted"> <b>Contact Us</b></a></h5>
-     <h5><span class="glyphicon glyphicon-chevron-right"></span><a href="#" class="text-muted"> <b>About Us</b></a></h5>
-     <h5><span class="glyphicon glyphicon-chevron-right"></span><a href="#" class="text-muted"> <b>Terms & Conditions</b></a></h5>
-     <h5><span class="glyphicon glyphicon-chevron-right"></span><a href="#" class="text-muted"> <b>Private Policy</b></a></h5>
-    </div>
-
-     <div id="foot2" class="col-md-3 col-sm-3">
-      <h5>Customer Services</h5>
-
-<h5 id="firstchild"><span class="glyphicon glyphicon-chevron-right"></span><a href="#" class="text-muted"> <b>Customer Support</b></a></h5>
-<h5> <span class="glyphicon glyphicon-chevron-right"></span><a href="#" class="text-muted"> <b>Cancel Booking</b></a></h5>
-<h5><span class="glyphicon glyphicon-chevron-right"></span><a href="#" class="text-muted"> <b>Cancelltion policy</b></a></h5>
-<h5><span class="glyphicon glyphicon-chevron-right"></span><a href="#" class="text-muted"><b> Register</b></a></h5>
-<h5 style="border-bottom:0px;"><span class="glyphicon glyphicon-chevron-right"></span><a href="#" class="text-muted"><b> Conatct Us</b></a></h5>
-     </div>
-
-    <div id="foot3" class="col-md-3 col-sm-3">
-        <h5>Address</h5>
-        <h5 class="text-muted">123 ,Lorem Ipsum dummy Text<br>Freephone: 1 999 999 9999<br>Fax:1 999 999 9999<br>E-mail: xyz@domain.uk</h5>
-      </div>
-
-
-      <div id="foot4" class="col-md-3 col-sm-3">
-         <h3>Follow Us</h3><br>
-           <ul class="social-network social-circle">
-              <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-               <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-              <li><a href="#" class="icoTumblr" title="Tumblr"><i class="fa fa-tumblr"></i></a></li>
-             
-      </ul>	
-       </div>   
-      
-</div>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+<!--   FOOTER START================== --> 
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+        <div class="col-sm-3">
+            <h4 class="title">About us Team Khyal</h4>
+            <p>We are Team Khyal</p>
+            <ul class="social-icon">
+                <a href="#" class="social"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                <a href="#" class="social"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                <a href="#" class="social"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                <a href="#" class="social"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+                <a href="#" class="social"><i class="fa fa-google" aria-hidden="true"></i></a>
+                <a href="#" class="social"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
+            </ul>
+        </div>
+        <div class="col-sm-3">
+            <h4 class="title">Follow Us</h4>
+            <span class="acount-icon">          
+            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> Nhor Sopheak</a>
+            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> Chum Davin</a>
+            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> Hong Bunthan</a>
+            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> Yorn Songheng</a>           
+            </span>
+        </div>
+        <div class="col-sm-3">
+            <h4 class="title">Comming Soon</h4>
+            
+        </div>
+        <div class="col-sm-3">
+            <h4 class="title">Contact Info</h4>
+            <p>Address: #27C, St. 3BT, Sangkat Boeung Tumpun, Khan Meanchey, Phnom Penh, Cambodia.</p>
+            <br>
+            <p>Phone Number: Team Khyal<br>
+              Email: TeamKhayl@gmail.com            </p>
+            </div>
+        </div>
+        <hr>
+        <div class="row text-center"><a href=" " style="color: #fff;">Copyright © Team Khyal</a></div>
+    </div>	
 </footer>
-</div>
-
-<section class="container-fluid" id="foot5">
-  <h4 class="text-center text-muted">Copyrights © 2018 alphacars.com</h4>
-</section>
-
