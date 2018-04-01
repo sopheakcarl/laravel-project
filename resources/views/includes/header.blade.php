@@ -41,7 +41,10 @@
 				</div>
 			</div>
 
-			<!-- Start nav -->
+
+
+
+			<!-- Start Menu -->
 			<nav class="menu">
 				<div class="container">
 					<div class="brand">
@@ -60,67 +63,74 @@
 							<li class="for-tablet nav-title"><a>Menu</a></li>
 							<li class="for-tablet"><a href="login.html">LogOut</a></li>
 							<li class="for-tablet"><a href="register.html">Register</a></li>
-							<li><a href="category.html">SETEC Intitute</a></li>
+
+
+							<!--Start SETEC Intitute-->
+							<li><a href="category.html">SETEC INSTITUTE</a></li>
+							<!--End SETEC Intitute-->
+
+
+							<!--Start Academic-->
 							<li class="dropdown magz-dropdown">
-								<a href="category.html">IT Learning <i class="ion-ios-arrow-right"></i></a>
+								<a href="category.html">ACADEMIC <i class="ion-ios-arrow-right"></i></a>
 								<ul class="dropdown-menu">
-									<li><a href="index.html">SETEC Intitute</a></li>
+									<li><a href="index.html">Foundation Year </a></li>
+									
+									<li><a href="category.html">Associate Bachelor Degree </a></li>
 									<li class="dropdown magz-dropdown">
-										<a href="#">Authentication <i class="ion-ios-arrow-right"></i></a>
+										<a href="#">Bachelor Degree <i class="ion-ios-arrow-right"></i></a>
 										<ul class="dropdown-menu">
-											<li><a href="login.html">Login</a></li>
-											<li><a href="register.html">Register</a></li>
-											<li><a href="forgot.html">Forgot Password</a></li>
-											<li><a href="reset.html">Reset Password</a></li>
+											<li><a href="">MIS</a></li>
+											<li><a href=" ">Desgin</a></li>
+											<li><a href=" ">Business IT</a></li>
+								
 										</ul>
 									</li>
-									<li><a href="category.html">Category</a></li>
-									<li><a href="single.html">Single</a></li>
-									<li><a href="page.html">Page</a></li>
-									<li><a href="search.html">Search</a></li>
-									<li><a href="contact.html">Contact</a></li>
 									<li class="dropdown magz-dropdown">
-										<a href="#">Error <i class="ion-ios-arrow-right"></i></a>
+										<a href="#">Master Degree<i class="ion-ios-arrow-right"></i></a>
 										<ul class="dropdown-menu">
-											<li><a href="403.html">403</a></li>
-											<li><a href="404.html">404</a></li>
-											<li><a href="500.html">500</a></li>
-											<li><a href="503.html">503</a></li>
+											<li><a href="403.html">Master of IT</a></li>
+											<li><a href="404.html">Master of Design</a></li>
+										
 										</ul>
 									</li>
 								</ul>
 							</li>
-							<li class="dropdown magz-dropdown"><a href="#">Dropdown <i class="ion-ios-arrow-right"></i></a>
+							<!--End Academic-->
+
+
+							<!--Start IT Learning-->
+							<li class="dropdown magz-dropdown"><a href="#">IT Learning<i class="ion-ios-arrow-right"></i></a>
 								<ul class="dropdown-menu">
-									<li><a href="category.html">Internet</a></li>
-									<li class="dropdown magz-dropdown"><a href="category.html">Troubleshoot <i class="ion-ios-arrow-right"></i></a>
+								
+									<li class="dropdown magz-dropdown"><a href="category.html">Programming<i class="ion-ios-arrow-right"></i></a>
 										<ul class="dropdown-menu">
-											<li><a href="category.html">Software</a></li>
-											<li class="dropdown magz-dropdown"><a href="category.html">Hardware <i class="ion-ios-arrow-right"></i></a>
-												<ul class="dropdown-menu">
-													<li><a href="category.html">Main Board</a></li>
-													<li><a href="category.html">RAM</a></li>
-													<li><a href="category.html">Power Supply</a></li>
-												</ul>
+											<li><a href="category.html"></a></li>
+											<li class="dropdown magz-dropdown"><a href="category.html">Hardware </a>
+												
 											</li>
 											<li><a href="category.html">Brainware</a>
 										</ul>
 									</li>
-									<li><a href="category.html">Office</a></li>
-									<li class="dropdown magz-dropdown"><a href="#">Programming <i class="ion-ios-arrow-right"></i></a>
+						
+									<li class="dropdown magz-dropdown"><a href="#">Network<i class="ion-ios-arrow-right"></i></a>
 										<ul class="dropdown-menu">
 											<li><a href="category.html">Web</a></li>
-											<li class="dropdown magz-dropdown"><a href="category.html">Mobile <i class="ion-ios-arrow-right"></i></a>
+											<li class="dropdown magz-dropdown"><a href="category.html">Mobile </a>
 												<ul class="dropdown-menu">
-													<li class="dropdown magz-dropdown"><a href="category.html">Hybrid <i class="ion-ios-arrow-right"></i></a>
-														<ul class="dropdown-menu">
-															<li><a href="#">Ionic Framework 1</a></li>
-															<li><a href="#">Ionic Framework 2</a></li>
-															<li><a href="#">Ionic Framework 3</a></li>
-															<li><a href="#">Framework 7</a></li>
-														</ul>
-													</li>
-													<li><a href="category.html">Native</a></li>
+						
+												</ul>
+											</li>
+											<li><a href="category.html">Desktop</a></li>
+										</ul>
+									</li>
+
+									<li class="dropdown magz-dropdown"><a href="#">Design<i class="ion-ios-arrow-right"></i></a>
+										<ul class="dropdown-menu">
+											<li><a href="category.html">Web</a></li>
+											<li class="dropdown magz-dropdown"><a href="category.html">Mobile </a>
+												<ul class="dropdown-menu">
+						
 												</ul>
 											</li>
 											<li><a href="category.html">Desktop</a></li>
@@ -128,7 +138,11 @@
 									</li>
 								</ul>
 							</li>
-							<li class="dropdown magz-dropdown magz-dropdown-megamenu"><a href="#">Academic <i class="ion-ios-arrow-right"></i> <div class="badge">Hot</div></a>
+							<!--End IT Learning-->
+							
+
+							<!--Start Activities-->
+							<li class="dropdown magz-dropdown magz-dropdown-megamenu"><a href="#">Activitis<i class="ion-ios-arrow-right"></i> <div class="badge">Khmer</div></a>
 								<div class="dropdown-menu megamenu">
 									<div class="megamenu-inner">
 										<div class="row">
@@ -139,13 +153,15 @@
 													</div>
 												</div>
 												<ul class="vertical-menu">
-													<li><a href="#"><i class="ion-ios-circle-outline"></i> Foundation Year</a></li>
-													<li><a href="#"><i class="ion-ios-circle-outline"></i> Associate Bachelor Degree</a></li>
-													<li><a href="#"><i class="ion-ios-circle-outline"></i> Bachelor Degree</a></li>
-													<li><a href="#"><i class="ion-ios-circle-outline"></i> Master Degree</a></li>
-													<li><a href="#"><i class="ion-ios-circle-outline"></i> Bridg Course</a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i> Chinese New Year</a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i> Khmer New Year</a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i> Pchum Ben</a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i> Certificate</a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i> Meeting </a></li>
 												</ul>
 											</div>
+							
+
 											<div class="col-md-9">
 												<div class="row">
 													<div class="col-md-12">
@@ -207,7 +223,36 @@
 									</div>
 								</div>
 							</li>
+							<!--End Activities-->
+
+
+							<!--Start Internship-->
+							<li><a href="category.html">Intership</a></li>
+							<!--End Internship-->
+
+
+							<!--Start Fancilities-->
+							<li><a href="category.html">Facilites</a></li>
+							<!--End Fancilities-->
+
+
+							<!--Start Structure-->
+							<li><a href="category.html">Structure</a></li>
+							<!--End Structure-->
+
+
+							<!--Start About Us-->
 							
+							<!--End About Us-->
+
+
+							<!--Start Contact Us-->
+							
+							<!--Start Contact Us-->
+
+
+
+
 							<li class="dropdown magz-dropdown"><a href="#">Dropdown Icons <i class="ion-ios-arrow-right"></i></a>
 								<ul class="dropdown-menu">
 									<li><a href="#"><i class="icon ion-person"></i> My Account</a></li>
@@ -223,5 +268,5 @@
 					</div>
 				</div>
 			</nav>
-			<!-- End nav -->
+			<!-- End Menu-->
 		</header>

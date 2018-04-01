@@ -11,13 +11,14 @@
 							</div>
 							<div class="owl-carousel owl-theme" id="headline">							
 								<div class="item">
-									<a href="#"><div class="badge">Tip!</div> Vestibulum ante ipsum primis in faucibus orci</a>
+									<a href="#"><div class="badge">Tip!</div>SETEC INSTITUE</a>
 								</div>
 								<div class="item">
 									<a href="#">Ut rutrum sodales mauris ut suscipit</a>
 								</div>
 							</div>
 						</div>
+
 						<div class="owl-carousel owl-theme slide" id="featured">
 							<div class="item">
 								<article class="featured">
