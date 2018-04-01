@@ -39,8 +39,8 @@
 													<div class="time">December 10, 2016</div>
 													<div class="category"><a href="category.html">Healthy</a></div>
 												</div>
-												<h2><a href="single.html">Duis aute irure dolor in reprehenderit in voluptate</a></h2>
-												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												<h2><a href="single.html">គ្រប់គ្រងប្រព័ន្ធព័ត៌មានវិទ្យា​ Management Information System</a></h2>
+												<p>កំណើន នៃការប្រើ ប្រាស់ប្រព័ន្ធព័ត៌មានវិទ្យា បានកើនឡើង យ៉ាងឆាប់រហ័ស បំផុត ក្នុងប្រទេស កម្ពុជាព្រោះថាទាំង ស្ថាប័នរដ្ឋ និងឯកជន បាននឹង កំពុងកែប្រែប្រព័ន្ធ ការងារតាមបែបព័ត៌មានវិទ្យាវិញដើម្បីទាន់ តម្រូវ ការនៃសង្គមការងារ ។</p>
 												<footer>
 													<a href="#" class="love"><i class="ion-android-favorite-outline"></i> <div>1263</div></a>
 													<a class="btn btn-primary more" href="single.html">
@@ -63,7 +63,7 @@
 													<div class="time">December 22, 2016</div>
 													<div class="category"><a href="category.html">Healthy</a></div>
 												</div>
-												<h2><a href="single.html">Exercitation ullamco laboris nisi ut aliquip</a></h2>
+												<h2><a href="single.html">Micro Tik(MTCNA)  ត្រូវបានបញ្ចូលទៅក្នុងមុខជំនាញគ្រប់គ្រងប្រព័ន្ធព័ត៌មានវិទ្យា​ </a></h2>
 												<p>Maecenas accumsan tortor ut velit pharetra mollis. Proin eu nisl et arcu iaculis placerat sollicitudin ut est. In fringilla dui dui.</p>
 												<footer>
 													<a href="#" class="love"><i class="ion-android-favorite-outline"></i> <div>327</div></a>
@@ -91,7 +91,7 @@
 													<div class="time">December 09, 2016</div>
 													<div class="category"><a href="category.html">Lifestyle</a></div>
 												</div>
-												<h2><a href="single.html">Mauris elementum libero at pharetra auctor</a></h2>
+												<h2><a href="single.html">ឌីហ្សាញ Design</a></h2>
 												<p>Vivamus in efficitur mi. Nullam semper justo ut elit lacinia lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra.</p>
 												<footer>
 													<a href="#" class="love"><i class="ion-android-favorite-outline"></i> <div>1083</div></a>
@@ -115,7 +115,7 @@
 													<div class="time">December 21, 2016</div>
 													<div class="category"><a href="category.html">Sport</a></div>
 												</div>
-												<h2><a href="single.html">Sed do eiusmod tempor incididunt ut labore</a></h2>
+												<h2><a href="single.html">ពាណិឭជ្ជកម្ម​ ព័ត៌មានវិទ្យា</a></h2>
 												<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum libero at pharetra auctor.</p>
 												<footer>
 													<a href="#" class="love"><i class="ion-android-favorite-outline"></i> <div>980</div></a>
