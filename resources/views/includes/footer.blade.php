@@ -26,8 +26,7 @@
             <span class="acount-icon">          
             <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> Nhor Sopheak</a>
             <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> Chum Davin</a>
-            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> Hong Bunthan</a>
-            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> Yorn Songheng</a>           
+            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> Hong Bunthan</a>         
             </span>
         </div>
         <div class="col-sm-3">

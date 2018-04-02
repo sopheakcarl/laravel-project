@@ -94,6 +94,8 @@
 										
 										</ul>
 									</li>
+									<li><a href="category.html">Bridging Course</a></li>
+
 								</ul>
 							</li>
 							<!--End Academic-->
@@ -114,11 +116,13 @@
 										</ul>
 									</li>
 						
-									<li class="dropdown magz-dropdown"><a href="#">Network<i class="ion-ios-arrow-right"></i></a>
+									<li class="dropdown magz-dropdown"><a href="#">Network Administator<i class="ion-ios-arrow-right"></i></a>
 										<ul class="dropdown-menu">
-											<li><a href="category.html">Network Administator</a></li>
+											<li><a href="category.html">Basic Network</a></li>
+											<li><a href="category.html">Window Server</a></li>
+											<li><a href="category.html">Exchange Server</a></li>
 											<li><a href="category.html">Linux Administator</a></li>
-											<li><a href="category.html">Network Computer Device</a></li>
+											<li><a href="category.html">Mikrotik</a></li>
 										</ul>
 									</li>
 
@@ -174,10 +178,10 @@
 															</figure>
 															<div class="padding">
 																<div class="detail">
-																	<div class="time">December 10, 2016</div>
-																	<div class="category"><a href="category.html">Healthy</a></div>
+																	<div class="time">Apr 14-15-16, 2018</div>
+																
 																</div>
-																<h2><a href="single.html">Duis aute irure dolor in reprehenderit in voluptate</a></h2>
+																<h2><a href="single.html">Happy Khmer New Year</a></h2>
 															</div>
 														</div>
 													</article>
@@ -223,7 +227,7 @@
 
 
 							<!--Start Internship-->
-							<li><a href="category.html"><i class="fa fa-briefcase fa-lg"></i> Intership</a></li>
+							<li><a href="category.html"><i class="fa fa-briefcase fa-lg"></i> Internship</a></li>
 							<!--End Internship-->
 
 
