@@ -5,7 +5,8 @@
 						<div class="col-md-3 col-sm-12">
 							<div class="brand">
 								<a href="index.html">
-									<img src="images/logo.png" alt="Magz Logo">
+							
+									<img src="images/logo.png" alt=" ">
 								</a>
 							</div>						
 						</div>
@@ -13,7 +14,7 @@
 							<form class="search" autocomplete="off">
 								<div class="form-group">
 									<div class="input-group">
-										<input type="text" name="q" class="form-control" placeholder="Type something here">									
+										<input type="text" name="q" class="form-control" placeholder="Search">									
 										<div class="input-group-btn">
 											<button class="btn btn-primary"><i class="ion-search"></i></button>
 										</div>
