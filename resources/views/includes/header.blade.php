@@ -67,19 +67,19 @@
 
 
 							<!--Start SETEC Intitute-->
-							<li><a href="category.html"><i class="fa fa-building fa-lg"></i> SETEC INSTITUTE</a></li>
+							<li><a href=""><i class="fa fa-building fa-lg"></i> SETEC INSTITUTE</a></li>
 							<!--End SETEC Intitute-->
 
 
 							<!--Start Academic-->
 							<li class="dropdown magz-dropdown">
-								<a href="category.html"><i class="fa fa-book fa-lg"></i> ACADEMIC <i class="ion-ios-arrow-right"></i></a>
+								<a href=""><i class="fa fa-book fa-lg"></i> ACADEMIC <i class="ion-ios-arrow-right"></i></a>
 								<ul class="dropdown-menu">
-									<li><a href="index.html">Foundation Year </a></li>
+									<li><a href="{{ url('/academic/foundation')}}">Foundation Year </a></li>
 									
-									<li><a href="category.html">Associate Bachelor Degree </a></li>
+									<li><a href="{{ url('/academic/associate')}}">Associate Bachelor Degree </a></li>
 									<li class="dropdown magz-dropdown">
-										<a href="#">Bachelor Degree <i class="ion-ios-arrow-right"></i></a>
+										<a href="{{ url('/academic/bachelor')}}">Bachelor Degree <i class="ion-ios-arrow-right"></i></a>
 										<ul class="dropdown-menu">
 											<li><a href="">MIS</a></li>
 											<li><a href=" ">Desgin</a></li>
@@ -88,14 +88,14 @@
 										</ul>
 									</li>
 									<li class="dropdown magz-dropdown">
-										<a href="#">Master Degree<i class="ion-ios-arrow-right"></i></a>
+										<a href="{{ url('/academic/master')}}">Master Degree<i class="ion-ios-arrow-right"></i></a>
 										<ul class="dropdown-menu">
 											<li><a href="403.html">Master of IT</a></li>
 											<li><a href="404.html">Master of Design</a></li>
 										
 										</ul>
 									</li>
-									<li><a href="category.html">Bridging Course</a></li>
+									<li><a href="{{ url('/academic/bridging')}}">Bridging Course</a></li>
 
 								</ul>
 							</li>
@@ -228,22 +228,22 @@
 
 
 							<!--Start Internship-->
-							<li><a href="category.html"><i class="fa fa-briefcase fa-lg"></i> Internship</a></li>
+							<li><a href="{{ url('/internship')}}"><i class="fa fa-briefcase fa-lg"></i> Internship</a></li>
 							<!--End Internship-->
 
 
 							<!--Start Fancilities-->
-							<li><a href="category.html"><i class="fa fa-laptop fa-lg"></i> Facilites</a></li>
+							<li><a href="{{ url('/facilites')}}"><i class="fa fa-laptop fa-lg"></i> Facilites</a></li>
 							<!--End Fancilities-->
 
 
 							<!--Start Structure-->
-							<li><a href="category.html"><i class="fa fa-sitemap fa-lg"></i> Structure</a></li>
+							<li><a href="{{ url('/structure')}}"><i class="fa fa-sitemap fa-lg"></i> Structure</a></li>
 							<!--End Structure-->
 
 
 							<!--Start About Us-->
-							<li><a href="category.html"><i class="fa fa-user fa-lg"></i> About Us</a></li>
+							<li><a href="{{ url('/about')}}"><i class="fa fa-user fa-lg"></i> About Us</a></li>
 							<!--End About Us-->
 
 
