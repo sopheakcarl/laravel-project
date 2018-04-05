@@ -33,3 +33,7 @@ Route::get('/internship','internshipController@internship');// route : Internshi
 Route::get('/facilites','facilitesController@facilites');// route : Facilites
 Route::get('/structure','structureController@structure');// route : Structure
 Route::get('/about','aboutController@about');// route : About US
+
+Route::get('/it/pro/c', 'itController@cprogramming');  // route : academic/bridging
+
+Route::get('/ITLearning','ITLearningController@ITLearning');
