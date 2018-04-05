@@ -31,7 +31,7 @@
 										<div class="inner">
 											<figure>
 												<a href="single.html">
-													<img src="images/news/img10.jpg" alt="Sample Article">
+													<img src="images/news/img40.jpg" alt="Sample Article">
 												</a>
 											</figure>
 											<div class="padding">
@@ -55,7 +55,7 @@
 										<div class="inner">
 											<figure>
 												<a href="single.html">
-													<img src="images/news/img06.jpg" alt="Sample Article">
+													<img src="images/news/img43.jpg" alt="Sample Article">
 												</a>
 											</figure>
 											<div class="padding">
@@ -83,7 +83,7 @@
 										<div class="inner">
 											<figure>                                
 												<a href="single.html">
-													<img src="images/news/img05.jpg" alt="Sample Article">
+													<img src="images/news/img41.jpg" alt="Sample Article">
 												</a>
 											</figure>
 											<div class="padding">
@@ -107,7 +107,7 @@
 										<div class="inner">
 											<figure>
 												<a href="single.html">
-													<img src="images/news/img07.jpg" alt="Sample Article">
+													<img src="images/news/img42.jpg" alt="Sample Article">
 												</a>
 											</figure>
 											<div class="padding">
