@@ -37,3 +37,4 @@ Route::get('/about','aboutController@about');// route : About US
 Route::get('/it/pro/c', 'itController@cprogramming');  // route : academic/bridging
 
 Route::get('/ITLearning','ITLearningController@ITLearning');
+Route::get('/academic/bachelor/mis','academicController@mis');

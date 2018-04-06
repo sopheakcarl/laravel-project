@@ -81,7 +81,7 @@
 									<li class="dropdown magz-dropdown">
 										<a href="{{ url('/academic/bachelor')}}">Bachelor Degree <i class="ion-ios-arrow-right"></i></a>
 										<ul class="dropdown-menu">
-											<li><a href="">MIS</a></li>
+											<li><a href="{{ url('/academic/bachelor/mis')}}">MIS</a></li>
 											<li><a href=" ">Desgin</a></li>
 											<li><a href=" ">Business IT</a></li>
 								

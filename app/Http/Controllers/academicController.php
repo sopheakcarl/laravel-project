@@ -26,4 +26,8 @@ class academicController extends Controller
     {
         return "bridging course";
     }
+    public function mis()
+    {
+        return "mis course";
+    }
 }
