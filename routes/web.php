@@ -38,3 +38,6 @@ Route::get('/it/pro/c', 'itController@cprogramming');  // route : academic/bridg
 
 Route::get('/ITLearning','ITLearningController@ITLearning');
 Route::get('/academic/bachelor/mis','academicController@mis');
+
+Route::post('/postdata','categoryController@insertToCategory');
+Route::get('/category','categoryController@showCategory');
