@@ -8,4 +8,5 @@ class categoryModel extends Model
 {
     protected $fillable=['name','description'];
     protected $table = "category";
+    protected $timestamps=false;
 }
