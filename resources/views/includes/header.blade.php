@@ -6,7 +6,7 @@
 							<div class="brand">
 								<a href="index.html">
 							
-									<img src="images/logo.png" alt=" ">
+									<img src="{{asset('images/logo.png')}}" alt=" ">
 								</a>
 							</div>						
 						</div>
@@ -75,14 +75,13 @@
 							<li class="dropdown magz-dropdown">
 								<a href=""><i class="fa fa-book fa-lg"></i> ACADEMIC <i class="ion-ios-arrow-right"></i></a>
 								<ul class="dropdown-menu">
-									<li><a href="{{ url('/academic/foundation')}}">Foundation Year </a></li>
 									
 									<li><a href="{{ url('/academic/associate')}}">Associate Bachelor Degree </a></li>
 									<li class="dropdown magz-dropdown">
 										<a href="{{ url('/academic/bachelor')}}">Bachelor Degree <i class="ion-ios-arrow-right"></i></a>
 										<ul class="dropdown-menu">
 											<li><a href="{{ url('/academic/bachelor/mis')}}">MIS</a></li>
-											<li><a href=" ">Desgin</a></li>
+											<li><a href=" {{ url('/academic/bachelor/design')}}">Desgin</a></li>
 											<li><a href=" ">Business IT</a></li>
 								
 										</ul>
@@ -95,7 +94,6 @@
 										
 										</ul>
 									</li>
-									<li><a href="{{ url('/academic/bridging')}}">Bridging Course</a></li>
 
 								</ul>
 							</li>

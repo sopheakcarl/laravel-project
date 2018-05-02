@@ -12,20 +12,20 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="images/news/img04.jpg" width="100%" hight="100%" alt="SETEC INTITUTE">
+      <img src="{{asset('images/news/img04.jpg')}}" width="100%" hight="100%" alt="SETEC INTITUTE">
       
     </div>
 
     <div class="item">
-      <img src="images/news/img18.jpg" width="100%" hight="100%" alt="Chicago">
+      <img src="{{asset('images/news/img18.jpg')}}" width="100%" hight="100%" alt="Chicago">
     </div>
 
     <div class="item">
-      <img src="images/news/img19.jpg" width="100%" hight="100%" alt="New York">
+      <img src="{{asset('images/news/img19.jpg')}}" width="100%" hight="100%" alt="New York">
     </div>
 
 	<div class="item">
-      <img src="images/news/img20.jpg" width="100%" hight="100%" alt="New York">
+      <img src="{{asset('images/news/img20.jpg')}}" width="100%" hight="100%" alt="New York">
     </div>
   </div>
 

@@ -15,15 +15,14 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/home','homeController@home');              // home route
+Route::get('/home','homeController@home');              // home route 
 // start academic route
 Route::prefix('/academic')->group(function () 
 {
-    Route::get('foundation', 'academicController@foundation');  // route : academic/foundation
     Route::get('associate', 'academicController@associate');  // route : academic/associate
     Route::get('bachelor', 'academicController@bachelor');  // route : academic/bachelor
     Route::get('master', 'academicController@master');  // route : academic/master
-    Route::get('bridging', 'academicController@bridging');  // route : academic/bridging
+    Route::get('master', 'academicController@master');  // route : academic/master
     
 });
 // end academic route
@@ -38,6 +37,6 @@ Route::get('/it/pro/c', 'itController@cprogramming');  // route : academic/bridg
 
 Route::get('/ITLearning','ITLearningController@ITLearning');
 Route::get('/academic/bachelor/mis','academicController@mis');
-
+Route::get('/academic/bachelor/design','academicController@design');
 Route::post('/postdata','categoryController@insertToCategory');
 Route::get('/category','categoryController@showCategory');

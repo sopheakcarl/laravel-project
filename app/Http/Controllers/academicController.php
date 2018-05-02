@@ -6,28 +6,27 @@ use Illuminate\Http\Request;
 
 class academicController extends Controller
 {
-    public function foundation()
-    {
-        return "foundation page";
-    }
     public function associate()
     {
-        return "associate page";
+        return view ('category/academic/associate');
+        //return "associate page";
     }
     public function bachelor()
     {
-        return "bachelor degree page";
+        
+        //return "bachelor degree page";
     }
     public function master()
     {
         return "master degree page";
     }
-    public function bridging()
+    public function design()
     {
-        return "bridging course";
+        return view('category/academic/bachelorDesign');
     }
     public function mis()
     {
-        return "mis course";
+        return view ('category/academic/bachelorMis');
+        //return "mis course";
     }
 }

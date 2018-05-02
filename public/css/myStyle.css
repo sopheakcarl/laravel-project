@@ -1,0 +1,16 @@
+.myTableHeader{
+    background: teal;
+    color: white;
+    border: 1px;
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+}
+.myTableHeader2{
+    background:darksalmon;
+    color: white;
+    border: 1px;
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+}
