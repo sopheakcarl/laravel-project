@@ -8,6 +8,6 @@ class homeController extends Controller
 {
     public function home()
     {
-        return view('Canbo');
+        return view('welcome');
     }
 }

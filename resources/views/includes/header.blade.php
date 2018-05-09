@@ -67,7 +67,7 @@
 
 
 							<!--Start SETEC Intitute-->
-							<li><a href=""><i class="fa fa-building fa-lg"></i> SETEC INSTITUTE</a></li>
+							<li><a href="{{ url('/home')}}"><i class="fa fa-building fa-lg"></i> SETEC INSTITUTE</a></li>
 							<!--End SETEC Intitute-->
 
 
@@ -223,21 +223,6 @@
 								</div>
 							</li>
 							<!--End Activities-->
-
-
-							<!--Start Internship-->
-							<li><a href="{{ url('/internship')}}"><i class="fa fa-briefcase fa-lg"></i> Internship</a></li>
-							<!--End Internship-->
-
-
-							<!--Start Fancilities-->
-							<li><a href="{{ url('/facilites')}}"><i class="fa fa-laptop fa-lg"></i> Facilites</a></li>
-							<!--End Fancilities-->
-
-
-							<!--Start Structure-->
-							<li><a href="{{ url('/structure')}}"><i class="fa fa-sitemap fa-lg"></i> Structure</a></li>
-							<!--End Structure-->
 
 
 							<!--Start About Us-->

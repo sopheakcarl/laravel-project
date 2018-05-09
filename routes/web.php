@@ -40,3 +40,32 @@ Route::get('/academic/bachelor/mis','academicController@mis');
 Route::get('/academic/bachelor/design','academicController@design');
 Route::post('/postdata','categoryController@insertToCategory');
 Route::get('/category','categoryController@showCategory');
+
+
+
+
+Route::prefix('/admin')->group(function () 
+{
+    Route::get('dashboard', 'adminController@dashboard');
+
+    Route::get('news-add', 'adminNewsController@addnews');
+    Route::get('news-view','adminNewsController@viewnews');
+
+    Route::get('academic-associate', 'adminAcademicController@associate');
+    Route::get('academic-bachelor', 'adminAcademicController@bachelor');
+    Route::get('academic-master', 'adminAcademicController@master');
+
+    Route::get('itlearn-programing', 'adminITlearnController@programing');
+    Route::get('itlearn-network', 'adminITlearnController@network');
+    Route::get('itlearn-design', 'adminITlearnController@design');
+
+    Route::get('activitis', 'adminActiveController@activitis');
+
+    Route::get('adduser', 'adminUserController@adduser');
+
+    Route::get('settings', 'adminSettingController@setting');
+    
+    
+});
+Route::get('logout', 'adminUserController@logout');
+Route::get('admin', 'adminUserController@logout');

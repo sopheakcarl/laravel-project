@@ -79,7 +79,7 @@
 
 
 			<div class="col-md-6">
-			<h3 class="myTableHeader">year 1 Semester 1</h3>	<!-- my table header-->
+			<h3 class="myTableHeader">year 1 Semester 2</h3>	<!-- my table header-->
 			<table class="table table-bordered">
 					<thead>
 					<tr>
@@ -123,7 +123,7 @@
 
 
 			<div class="col-md-6">
-			<h3 class="myTableHeader">year 1 Semester 1</h3>	<!-- my table header-->
+			<h3 class="myTableHeader">year 2 Semester 1</h3>	<!-- my table header-->
 			<table class="table table-bordered">
 					<thead>
 					<tr>
@@ -166,7 +166,7 @@
 
 
 			<div class="col-md-6">
-			<h3 class="myTableHeader">year 1 Semester 1</h3>	<!-- my table header-->
+			<h3 class="myTableHeader">year 2 Semester 2</h3>	<!-- my table header-->
 			<table class="table table-bordered">
 					<thead>
 					<tr>
@@ -274,7 +274,7 @@
 
 
 			<div class="col-md-6">
-			<h3 class="myTableHeader2">year 1 Semester 1</h3>	<!-- my table header-->
+			<h3 class="myTableHeader2">year 1 Semester 2</h3>	<!-- my table header-->
 			<table class="table table-bordered">
 					<thead>
 					<tr>
@@ -318,7 +318,7 @@
 
 
 			<div class="col-md-6">
-			<h3 class="myTableHeader2">year 1 Semester 1</h3>	<!-- my table header-->
+			<h3 class="myTableHeader2">year 2 Semester 1</h3>	<!-- my table header-->
 			<table class="table table-bordered">
 					<thead>
 					<tr>
@@ -361,7 +361,7 @@
 
 
 			<div class="col-md-6">
-			<h3 class="myTableHeader2">year 1 Semester 1</h3>	<!-- my table header-->
+			<h3 class="myTableHeader2">year 2 Semester 2</h3>	<!-- my table header-->
 			<table class="table table-bordered">
 					<thead>
 					<tr>
